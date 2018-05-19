@@ -1,0 +1,55 @@
+.logo{
+    position: relative;
+    width: 400px;
+ }
+.kleur1{
+    width: 150px;
+    background: #EA5B7B;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.kleur2{
+    width: 150px;
+    background: #4FCBA9;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.kleur3{
+    width: 150px;
+    background:#5b67d2;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.kleur4{
+    width: 150px;
+    background:#FEEE59;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.kleur5{
+    width: 150px;
+    background:#000000;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    color: #ffffff
+}
+.kleur6{
+    width: 150px;
+    background:#FFFFFF;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.kleuren{
+    position:relative;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    text-align: center;
+}
