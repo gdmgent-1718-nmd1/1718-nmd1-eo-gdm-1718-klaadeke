@@ -1,7 +1,4 @@
-.logo{
-    position: relative;
-    width: 400px;
- }
+
 .kleur1{
     width: 150px;
     background: #EA5B7B;
@@ -57,10 +54,18 @@ h1{
     font-family: 'Oswald', sans-serif;
   
 }
-font-family: 'Lato', sans-serif;
+
 .iconen{
-    position:absolute;
+    position:relative;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
 }
+.digi{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px; 
+    text-transform: uppercase;}
+    .lato{
+        font-family: 'Lato', sans-serif;
+    }
