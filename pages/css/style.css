@@ -58,3 +58,9 @@ h1{
   
 }
 font-family: 'Lato', sans-serif;
+.iconen{
+    position:absolute;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
