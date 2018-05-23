@@ -13,7 +13,7 @@ body{
 	display: flex;
 	flex-direction: column;
     flex-wrap: wrap;
-    width: 900px;
+    width: 100vw;
 	height: 100vw;
 }
 .box1{
@@ -236,6 +236,7 @@ p{font-family: 'Oswald', sans-serif;}
     justify-content: space-between;
     flex-direction: column;
     text-align: center;
+    align-items: center;
 }
 .iconen{
     position:relative;
@@ -247,7 +248,9 @@ p{font-family: 'Oswald', sans-serif;}
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 40px; 
     text-transform: uppercase;
-    letter-spacing: 2px;}
+    letter-spacing: 2px;
+    text-align: center;
+color: #888787; }
 
 .type1{
     font-family: 'Oswald', sans-serif;
