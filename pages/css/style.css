@@ -1,4 +1,7 @@
-
+body{
+    width: 1250px;
+    margin: auto;
+}
 .kleur1{
     width: 150px;
     background: #EA5B7B;
@@ -60,6 +63,9 @@ h1{
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+}
+.iconen:hover{
+    color:#5b67d2;
 }
 .digi{
     font-family: 'Oswald', sans-serif;
