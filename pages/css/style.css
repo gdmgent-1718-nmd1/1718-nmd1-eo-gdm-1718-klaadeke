@@ -69,7 +69,8 @@ body{
     background:#5b67d2;
     border-radius: 10px;
     padding: 10px;
-    margin: 10px;
+    margin: 10px 120px 10px 120px;
+    
 }
 .knop1:hover{
     font-family: 'Oswald', sans-serif;
@@ -83,7 +84,7 @@ body{
     border:2px solid #5b67d2;
     border-radius: 10px;
     padding: 10px;
-    margin: 10px; 
+    margin: 10px 120px 10px 120px;
 }
 .knop2{
     font-family: 'Oswald', sans-serif;
@@ -97,7 +98,7 @@ body{
     border:2px solid #5b67d2;
     border-radius: 10px;
     padding: 10px;
-    margin: 10px;
+    margin: 10px 120px 10px 120px;
 }
 .knop2:hover{
     font-family: 'Oswald', sans-serif;
@@ -110,7 +111,7 @@ body{
     background:#5b67d2;
     border-radius: 10px;
     padding: 10px;
-    margin: 10px;   
+    margin: 10px 120px 10px 120px; 
 }
 .knop5{
     font-family: 'Oswald', sans-serif;
@@ -282,4 +283,7 @@ p{font-family: 'Oswald', sans-serif;}
 .fon4{
     font-family: 'Lato', sans-serif;
     font-size: 11pt;
+}
+.knoppen{
+    text-align: center;
 }
